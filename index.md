@@ -13,7 +13,7 @@ De notebooks kunnen worden gebruikt na het installeren van Python en de bijbehor
 ### H1: Introductie en plotten
 Bekijk in de browser: [Notebook 1](http://nbviewer.org/github/mmgalis/programmeren_in_python/blob/main/H1%3A%20Introductie%20en%20plotten/notebook1nl_sol.ipynb)
 
-Download zip-file: <a href="H1: Introductie en plotten/Notebook 1.zip"download="download">Notebook 1</a>
+Download zip-file: <a href="H1: Introductie en plotten/Notebook 1.zip" download="download">Notebook 1</a>
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
