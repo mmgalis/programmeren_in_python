@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Python voor toegepast onderzoek
 
-You can use the [editor on GitHub](https://github.com/mmgalis/programmeren_in_python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Deze introductie cursus in de programmeertaal Python gericht op directe toepassing van data analyse en visualisatie.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Er wordt geen voorkennis verwacht. Elk notebook behandeld een specifiek onderwerp en een aantal gerelateerde opdrachten. Het doornemen en maken van de opdrachten zal ongeveer 4 uur in beslag nemen per notebook. De antwoorden op de opgaves staan aan het einde van het notebook. 
 
-### Markdown
+De notebooks kunnen worden gebruikt na het installeren van Python en de bijbehorende applicaties. Een populaire programmma is [Anaconda](https://www.anaconda.com/), waarmee je makkelijk en snel notebooks kan inzien en bewerken in een browser. Na het installeren van Anaconda, start de navigator en start Jupyter Notebook. Gebruik het _dashboard_ om naar de map te gaan waar je de notebooks hebt geinstalleerd en klik op welke notebook je wilt openenen.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
